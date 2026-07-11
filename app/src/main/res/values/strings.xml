@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SurPro AI Music</string>
+    <string name="app_description">Create and share AI-generated music</string>
+    
+    <!-- Auth Screens -->
+    <string name="welcome_to_surpro">Welcome to SurPro</string>
+    <string name="create_amazing_music">Create and share AI-generated music</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="logging_in">Logging in...</string>
+    <string name="don_t_have_account">Don\'t have an account? Sign up</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_account">Create Account</string>
+    
+    <!-- Features -->
+    <string name="lyrics_generator">Lyrics Generator</string>
+    <string name="generate_lyrics_with_ai">Generate lyrics with AI</string>
+    <string name="voice_generator">Voice Generator</string>
+    <string name="convert_text_to_singing">Convert text to singing voice</string>
+    <string name="music_generator">Music Generator</string>
+    <string name="generate_original_music">Generate original music</string>
+    <string name="video_maker">Video Maker</string>
+    <string name="create_music_videos">Create music videos</string>
+    
+    <!-- Plans -->
+    <string name="free_plan">Free Plan</string>
+    <string name="starter_plan">Starter Plan</string>
+    <string name="pro_plan">Pro Plan</string>
+    <string name="ultra_plan">Ultra Plan</string>
+    <string name="studio_plan">Studio Plan</string>
+    
+    <!-- Buttons -->
+    <string name="continue_btn">Continue</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="download">Download</string>
+    
+    <!-- Errors -->
+    <string name="error">Error</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="network_error">Network error</string>
+    <string name="try_again">Try Again</string>
+    <string name="invalid_email">Invalid email address</string>
+    <string name="invalid_password">Password must be at least 6 characters</string>
+    
+    <!-- Success -->
+    <string name="success">Success</string>
+    <string name="login_successful">Login successful</string>
+    <string name="signup_successful">Account created successfully</string>
+    
+    <!-- General -->
+    <string name="loading">Loading...</string>
+    <string name="no_data">No data available</string>
+    <string name="refresh">Refresh</string>
+</resources>
